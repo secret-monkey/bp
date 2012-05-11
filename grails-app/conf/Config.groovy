@@ -91,3 +91,9 @@ log4j = {
            'org.hibernate',
            'net.sf.ehcache.hibernate'
 }
+aws {
+	domain="s3.amazonaws.com"
+	accessKey="AKIAJ54NI7Q6XFRK6TRA"
+	secretKey="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"
+	bucketName="bpfiles"
+}
