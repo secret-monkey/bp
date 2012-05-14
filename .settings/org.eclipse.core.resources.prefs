@@ -9,8 +9,12 @@ encoding//.link_to_grails_plugins/amazon-s3-0.8.2/grails-app/i18n/messages_ja.pr
 encoding//.link_to_grails_plugins/amazon-s3-0.8.2/grails-app/i18n/messages_nl.properties=UTF-8
 encoding//.link_to_grails_plugins/amazon-s3-0.8.2/grails-app/i18n/messages_ru.properties=UTF-8
 encoding//.link_to_grails_plugins/amazon-s3-0.8.2/grails-app/i18n/messages_zh_CN.properties=UTF-8
+encoding//.link_to_grails_plugins/hibernate-2.0.3/grails-app/i18n=UTF-8
+encoding//.link_to_grails_plugins/hibernate-2.0.3/grails-app/i18n/messages.properties=UTF-8
 encoding//.link_to_grails_plugins/jquery-1.7.1/grails-app/i18n=UTF-8
 encoding//.link_to_grails_plugins/jquery-1.7.1/grails-app/i18n/messages.properties=UTF-8
+encoding//.link_to_grails_plugins/quartz-0.4.1/grails-app/i18n=UTF-8
+encoding//.link_to_grails_plugins/quartz-0.4.1/grails-app/i18n/messages.properties=UTF-8
 encoding//.link_to_grails_plugins/resources-1.1.5/grails-app/i18n=UTF-8
 encoding//.link_to_grails_plugins/resources-1.1.5/grails-app/i18n/messages.properties=UTF-8
 encoding//.link_to_grails_plugins/twitter-bootstrap-2.0.2.25/grails-app/i18n=UTF-8

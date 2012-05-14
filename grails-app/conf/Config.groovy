@@ -97,3 +97,8 @@ aws {
 	secretKey="WXlDyMl22qR0Oqjfj3FE5VQLaIF45MLu1IUj3jCS"
 	bucketName="bpfiles"
 }
+bi.renderingEngine = RenderingEngine.IMAGE_MAGICK
+bi.imageMagickQuality = 50
+bi.imageMagickCompression= 50
+
+
